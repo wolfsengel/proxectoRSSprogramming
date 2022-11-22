@@ -3,17 +3,24 @@
 
 <channel>
   <title>Programming languages</title>
-  <link>https://example.com</link>
-  <description>Free web building tutorials</description>
+  <link>https://wolfsengel.github.io/proxectoRSSprogramming/</link>
+  <description>Blog about programming languages</description>
+  <managingEditor>a22angelgp@iessanclemente.net</managingEditor>
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.example.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
+    <title>Java</title>
+    <link>https://wolfsengel.github.io/proxectoRSSprogramming/</link>
+    <description>New Java tutorial on Saint Clarence</description>
+    
   </item>
   <item>
-    <title>XML Tutorial</title>
-    <link>https://www.example.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
+    <title>Python</title>
+    <link>https://wolfsengel.github.io/proxectoRSSprogramming/</link>
+    <description>New Python tutorial on Saint Clarence</description>
+  </item>
+  <item>
+    <title>Kotlin</title>
+    <link>https://wolfsengel.github.io/proxectoRSSprogramming/</link>
+    <description>New Kotlin tutorial on Saint Clarence</description>
   </item>
 </channel>
 
